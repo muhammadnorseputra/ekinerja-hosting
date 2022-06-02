@@ -114,12 +114,13 @@
 
                     <div id="layout-kanan" style="left:5%;position:absolute;">
                         <div style="font-size:30px; text-align: left; color:white;">
-                                <b>Daily Evaluation System (e-Kinerja)</b><br/>
+                                <b>Daily Evaluation System (e-Kinerja1)</b><br/>
                                 Pemerintah Kabupaten Balangan
                         </div>                    
                         <p align='left'><i class='fa fa-2x fa-home'></i><span style="padding:20px;">BKPSDM Kabupaten Balangan</span></p>
                         <p align='left'><i class='fa fa-2x fa-map-marker'></i><span style="padding:20px;">Jln. A. Yani Km 4,5 No. 1 Kel. Batu piring Kec. Paringin Selatan Kab. Balangan</span></p>
                         <p align='left'><i class='fa fa-2x fa-phone'></i><span style="padding:20px;">0526-2028060 (Telp / Fax)</span></p>
+                        <p align='left'><i class='fa fa-2x fa-link'></i><span style="padding:20px;"><a href="https://bkpsdm.balangankab.go.id" target=_blank"">bkpsdm.balangankab.go.id</a></span></p>
                     </div>
                 </div>
                 <div class="col-md-7 col-xs-12 col-sm-12" id="kiri">

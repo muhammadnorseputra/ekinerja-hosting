@@ -105,7 +105,7 @@ if($hasil==0){
 
         // Cek koneksi ke SILKa Online
         //$konek = @fSockOpen("silka.bkppd-balangankab.info", 80);
-        //$konek = @fSockOpen("localhost", 80);
+        $konek = @fSockOpen("localhost", 80);
         
         //var_dump($konek);
         // Apabila login dibatasi hanya user tertentu.
